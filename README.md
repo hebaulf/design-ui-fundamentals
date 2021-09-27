@@ -2,6 +2,7 @@
 
 In this project I designed a front page for a restaurant using the UI fundamentals explained below.  
 Here is a link to my [Figma file](https://www.figma.com/file/Ruy4LMz1aSi5mjdWFWQqKM/UI-Fundamentals?node-id=0%3A1)
+<br>
 <img src="screenshots/Orange.png" alt="Figma design project" width="600"/>
 <br>
 <br>
@@ -37,11 +38,11 @@ Obvious examples of contrast are black and white, big and small, thick and thin.
 
 Color can set the basic mood, tone, concept, and connotation for a website or app. Colors provoke emotions in customers. Avoid overload and chaos in design, minimalism is always better in UI. Use the 60/30/10 rule, neutral color for 60%, secondary brand color for 30% and brand/accent color for 10%.
 
-<img src="screenshots/color.jpeg" alt="Color" width="300"/>
+<img src="screenshots/color.jpeg" alt="Color" width="400"/>
 <br>
   
 ### Scale
-Enlarged elements are easier to notice. Consider an article, which consists of numerous sections divided by headings. An increased font size of the headings makes them more noticeable, which is ideal because headings are known to improve the scannability of content, i.e. how fast users can digest content using summaries.
+Enlarged elements are easier to notice. Elements should be big enough in relation to the page (so no large gaps) and elements with higher importance, such as headlines, should be larger than those of less significance.
   
 <img src="screenshots/scale.jpeg" alt="Scale" width="600"/>
 <br>
@@ -60,6 +61,6 @@ Typography involves font style, appearance, and structure, aiming to elicit cert
   
 ### Visual Hierarchy
 
-The order in which we notice various design elements and the level of importance that they each convey.
+The order in which we notice various design elements and the level of importance that they each convey. Some elements of a UI are more important than others. Visual hierarchy allows us to establish this importance. This can be done with position, contrast, color, scale, style or a combination of the above
 
 <img src="screenshots/hierarchy.jpeg" alt="Hierarchy" width="600"/>
