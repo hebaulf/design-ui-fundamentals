@@ -1,6 +1,6 @@
 # Design - UI Fundamentals
 
-Here is a link to my [Figma file]()
+Here is a link to my [Figma file](https://www.figma.com/file/Ruy4LMz1aSi5mjdWFWQqKM/UI-Fundamentals?node-id=0%3A1)
 
 ## Explanation of UI Fundamentals
 
