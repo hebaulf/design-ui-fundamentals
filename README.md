@@ -16,7 +16,7 @@ White space is the empty space between layouts, lines in paragraphs words, betwe
 > Designers love it, website owners want to fill it. Whitespace seems to be one of the most controversial aspects of design.  
 >  — Paul Boag
 
-<img src="screenshots/white-space.png" alt="Whitespace" width="600"/>
+<img src="screenshots/white-space.jpg" alt="Whitespace" width="600"/>
 <br>
   
 ### Alignment
@@ -42,25 +42,25 @@ Color can set the basic mood, tone, concept, and connotation for a website or ap
 <br>
   
 ### Scale
-Enlarged elements are easier to notice. Elements should be big enough in relation to the page (so no large gaps) and elements with higher importance, such as headlines, should be larger than those of less significance.
+Scale describes the relative sizes of the elements in a design. Enlarged elements are easier to notice. Elements should be big enough in relation to the page (so no large gaps) and elements with higher importance, such as headlines, should be larger than those of less significance.
   
-<img src="screenshots/scale.jpeg" alt="Scale" width="600"/>
+<img src="screenshots/scale.png" alt="Scale" width="600"/>
 <br>
   
 ### Proximity
 The principle of proximity states that items close together are likely to be perceived as part of the same group — sharing similar functionality or traits. Using varying amounts of whitespace to either unite or separate elements is key to communicating meaningful groupings.
   
-<img src="screenshots/scale.jpeg" alt="Scale" width="600"/>
+<img src="screenshots/proximity.jpg" alt="Proximity" width="600"/>
 <br>
   
 ### Typography
-Typography involves font style, appearance, and structure, aiming to elicit certain emotions and convey specific messages to the end-user. Typography helps design to deliver information to people. Font size, font width, font color, and line lengths — all elements of typography work together to create a great user experience.
+Typography has a big impact on the UI. There are many ways to adjust this, including font choices, font size, alignment, letter spacing, line height, font styles, color and contrast. As a general rule, use no more than 2 font families on a single page and ensure the different aspects work together in order to establish the order of importance.
   
-<img src="screenshots/typography.jpeg" alt="Typography" width="600"/>
+<img src="screenshots/typography.png" alt="Typography" width="600"/>
 <br>
   
 ### Visual Hierarchy
 
 The order in which we notice various design elements and the level of importance that they each convey. Some elements of a UI are more important than others. Visual hierarchy allows us to establish this importance. This can be done with position, contrast, color, scale, style or a combination of the above
 
-<img src="screenshots/hierarchy.jpeg" alt="Hierarchy" width="600"/>
+<img src="screenshots/hierarchy.png" alt="Hierarchy" width="600"/>
