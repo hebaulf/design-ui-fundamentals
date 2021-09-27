@@ -1,7 +1,8 @@
 # Design - UI Fundamentals
 
 In this project I designed a front page for a restaurant using the UI fundamentals explained below.  
-Here is a link to my [Figma file](https://www.figma.com/file/Ruy4LMz1aSi5mjdWFWQqKM/UI-Fundamentals?node-id=0%3A1)
+Here is a link to my [Figma file](https://www.figma.com/file/Ruy4LMz1aSi5mjdWFWQqKM/UI-Fundamentals?node-id=0%3A1). 
+There are comments on the design file about what elements of UI fundamentals I am using.
 <br>
 <img src="screenshots/Orange.png" alt="Figma design project" width="600"/>
 <br>
